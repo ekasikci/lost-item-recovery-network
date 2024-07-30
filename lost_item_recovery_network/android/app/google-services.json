@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234499805754",
+    "project_id": "lost-item-recovery-network",
+    "storage_bucket": "lost-item-recovery-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234499805754:android:30f8fe11854dad99de1b03",
+        "android_client_info": {
+          "package_name": "com.example.lost_item_recovery_network"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JLnbX5XzfdmhtDfrZ8o-QgY1WEYIZ94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
